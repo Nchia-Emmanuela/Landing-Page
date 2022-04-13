@@ -2,5 +2,11 @@ body, html {
     width: 100%;
     height: 100%;
     font-family: "Montserrat", Verdana, Geneva, Tahoma, sans-serif;
-    background-image: url(./images/5.3\ header.jpg.jpg);
+    background: url(./images/5.3\ header.jpg.jpg) no-repeat center center fixed;
+    /* object-fit: cover; */
+    background-size: cover;
+}
+
+h1 {
+    color: #d4dbe1;
 }
