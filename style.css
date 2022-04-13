@@ -8,5 +8,20 @@ body, html {
 }
 
 h1 {
+    font-size: 3rem;
     color: #d4dbe1;
+}
+
+.btn {
+    font-weight: 700;
+    border-radius: 300px;
+}
+
+.btn-primary {
+    background-color: #F05F44;
+    border-color: #F05F44;
+}
+
+.btn-xl {
+    padding: 1rem 2rem;
 }
