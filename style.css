@@ -12,6 +12,10 @@ h1 {
     color: #d4dbe1;
 }
 
+.buffer {
+    height: 10rem;
+}
+
 hr {
     border-color: #F05F44;
     border-width: 2px;
